@@ -20,16 +20,25 @@ hero:
     theme: accent
 blocks:
   - type: paragraph
+    ctas: []
     ui:
+      theme: ''
       grid: medium
       offset: center
+      align: start
+    surtitle: ''
+    title: ''
     text: Lorem ipsum
   - type: faq
     heading:
       surtitle: FAQ
       title: Questions / Réponses
       text: ''
-    ui: null
+    ui:
+      theme: light
+      grid: large
+      offset: center
+      align: center
     items:
       - title: ''
         text: Mauris efficitur ullamcorper est vel blandit. Suspendisse nibh nisl, facilisis nec scelerisque at, auctor id risus
@@ -41,5 +50,18 @@ blocks:
         summary: Aenean id eleifend ipsum
         name: ''
         open: false
+  - type: figure
+    heading: null
+    ui:
+      theme: accent
+      grid: small
+      offset: center
+      align: center
+    figure:
+      src: /images/uploads/anders-jilden-Sc5RKXLBjGg-unsplash.jpg
+      alt: ''
+      legend: ''
+      credit: ''
+      screenshot: false
 slug: ''
 ---
