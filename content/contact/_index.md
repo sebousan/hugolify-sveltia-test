@@ -24,5 +24,22 @@ blocks:
       grid: medium
       offset: center
     text: Lorem ipsum
+  - type: faq
+    heading:
+      surtitle: FAQ
+      title: Questions / Réponses
+      text: ''
+    ui: null
+    items:
+      - title: ''
+        text: Mauris efficitur ullamcorper est vel blandit. Suspendisse nibh nisl, facilisis nec scelerisque at, auctor id risus
+        summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        name: ''
+        open: false
+      - title: ''
+        text: Quisque sodales nibh nibh, quis feugiat sem sagittis nec. Pellentesque placerat dolor nec blandit molestie. Quisque vulputate, purus porttitor viverra aliquet, justo lacus faucibus magna, quis hendrerit enim turpis vel sapien. Donec eget mi eget risus vehicula venenatis. Praesent dignissim ullamcorper metus eu lobortis. Integer enim ante, finibus in neque in, pharetra sagittis metus. Proin purus lacus, placerat sit amet condimentum a, ullamcorper sed magna.
+        summary: Aenean id eleifend ipsum
+        name: ''
+        open: false
 slug: ''
 ---
