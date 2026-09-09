@@ -41,8 +41,10 @@ admin:
       - datas
       - editorial
       - faq
+      - figure
       - images
       - informations
+      - paragraph
       - pushes
       - selected
       - testimonials
