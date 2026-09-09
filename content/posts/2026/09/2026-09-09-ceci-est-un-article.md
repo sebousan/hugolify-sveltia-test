@@ -7,6 +7,7 @@ description: Lorem ipsum
 image: null
 authors:
   - sébastien-moulène
-categories: []
+categories:
+  - évènement
 slug: ''
 ---
