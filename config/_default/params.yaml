@@ -18,8 +18,10 @@ blocks:
 
 # Admin
 admin:
-  cms: svletiacms
-  repository: sebousan/hugolify-sveltia-test
+  cms: sveltiacms
+  repo: sebousan/hugolify-sveltia-test
+  netlify:
+    identity: false
 
   i18n:
     default_locale: fr
