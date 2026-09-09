@@ -1,0 +1,48 @@
+_merge: deep
+
+header:
+  layout: dialog
+
+# Image
+hero:
+  cover:
+    desktop: 1600x1000
+products:
+  thumbnail:
+    desktop: 370x320
+    mobile: 314x270
+blocks:
+  gallery:
+    image:
+      ratio: 1.5
+
+# Admin
+admin:
+  cms: svletiacms
+  repository: sebousan/hugolify-sveltia-test
+
+  i18n:
+    default_locale: fr
+    # locales: "[fr,en]"
+
+  collections:
+    indexes:
+      nested:
+        depth: 1
+    pages:
+      nested:
+        depth: 1
+
+  blocks:
+    enable:
+      - cta
+      - datas
+      - editorial
+      - faq
+      - images
+      - informations
+      - pushes
+      - selected
+      - testimonials
+      - title
+      - video
