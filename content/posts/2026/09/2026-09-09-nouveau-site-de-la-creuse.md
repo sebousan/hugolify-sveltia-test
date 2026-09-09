@@ -7,7 +7,8 @@ description: Bienvenue sur le nouveau site de la Creuse
 image:
   src: /images/uploads/snap-wander-cYUiJXcn-Ak-unsplash.jpg
   alt: ''
-authors: []
+authors:
+  - sébastien-moulène
 categories:
   - évènement
 slug: ''
