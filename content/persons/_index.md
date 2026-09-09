@@ -5,7 +5,18 @@ title: Équipe
 description: ''
 image: null
 hero: null
-blocks: []
+blocks:
+  - type: selected-posts
+    heading: null
+    ui: null
+    carousel: null
+    section: posts
+    items:
+      - 2026-09-09-nouveau-site-de-la-creuse
+    show_more: true
+    source: selection
+    authors: []
+    categories: []
 slug: ''
 isIndex: true
 ---
