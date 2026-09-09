@@ -5,7 +5,9 @@ title: Sébastien Moulène
 firstname: Sébastien
 lastname: Moulène
 description: ''
-image: null
+image:
+  src: /assets/images/uploads/seb-color-2-thumb.jpg
+  alt: ''
 contact: null
 blocks: []
 slug: ''
