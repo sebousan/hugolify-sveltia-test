@@ -3,7 +3,9 @@ isPage: true
 draft: false
 title: Contact
 description: ''
-image: null
+image:
+  src: /images/uploads/anders-jilden-Sc5RKXLBjGg-unsplash.jpg
+  alt: ''
 hero:
   surtitle: ''
   title: Contact
