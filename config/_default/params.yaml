@@ -19,9 +19,10 @@ blocks:
 # Admin
 admin:
   cms: sveltiacms
+  name: github
   repo: sebousan/hugolify-sveltia-test
-  netlify:
-    identity: false
+  # netlify:
+  #   identity: false
 
   i18n:
     default_locale: fr
