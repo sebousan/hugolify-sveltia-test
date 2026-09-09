@@ -5,7 +5,7 @@ date: 2026-09-08T16:43:00
 title: Ceci est un article
 description: Lorem ipsum
 image:
-  src: /assets/images/uploads/anders-jilden-Sc5RKXLBjGg-unsplash.jpg
+  src: /images/uploads/anders-jilden-Sc5RKXLBjGg-unsplash.jpg
   alt: ''
 authors:
   - sébastien-moulène

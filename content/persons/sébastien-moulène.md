@@ -6,7 +6,7 @@ firstname: Sébastien
 lastname: Moulène
 description: ''
 image:
-  src: /assets/images/uploads/seb-color-2-thumb.jpg
+  src: /images/uploads/seb-color-2-thumb.jpg
   alt: ''
 contact: null
 blocks: []
