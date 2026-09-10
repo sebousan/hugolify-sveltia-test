@@ -4,8 +4,8 @@ header:
   expand: none
 
 logo:
-  header: '/assets/images/logo.png'
-  footer: '/assets/images/logo.png'
+  header: '/assets/images/logo-white.svg'
+  footer: '/assets/images/logo.svg'
 
 # Image
 hero:

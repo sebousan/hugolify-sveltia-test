@@ -23,7 +23,6 @@
   footer[role="contentinfo"] {
     .logo {
       --logo-height: 100px;
-      filter: invert(1);
     }
   }
 }
