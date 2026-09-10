@@ -5,3 +5,4 @@ links:
     url: /qui-sommes-nous/
   - title: Contact
     url: /contact/
+    is_highlighted: true

@@ -1,0 +1,17 @@
+@layer tokens {
+  :root {
+    --color-brand: #25594d;
+    --color-brand-hover: #1a4037;
+    --color-text-on-brand: white;
+    --header-color-background: var(--color-brand);
+    --header-color-link: var(--color-text-on-brand);
+    --header-color-text: var(--color-text-on-brand);
+  }
+}
+
+@layer layout {
+  header[role="banner"] {
+    --btn-color-background: var(--color-text-on-brand);
+    --btn-color-text: var(--color-brand);
+  }
+}

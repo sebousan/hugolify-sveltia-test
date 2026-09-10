@@ -3,6 +3,9 @@ _merge: deep
 header:
   layout: dialog
 
+logo:
+  footer: '/assets/images/logo.png'
+
 # Image
 hero:
   cover:
@@ -34,19 +37,3 @@ admin:
     pages:
       nested:
         depth: 1
-
-  blocks:
-    enable:
-      - cta
-      - datas
-      - editorial
-      - faq
-      - figure
-      - images
-      - informations
-      - paragraph
-      - pushes
-      - selected
-      - testimonials
-      - title
-      - video

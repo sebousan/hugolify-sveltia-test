@@ -1,7 +1,13 @@
 fr:
-  title: Navigation
+  title: Services
   links:
-    - title: Actualités
-      url: /actualites/
+    - title: Espace presse
+      url: /
+    - title: Actes administratifs
+      url: /
+    - title: Communication
+      url: /
+    - title: Portail cartographique
+      url: /
     - title: Contact
       url: /contact/

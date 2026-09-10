@@ -1,7 +1,11 @@
 fr:
   title: Navigation
   links:
+    - title: Le conseil départemental
+      url: /
+    - title: Nos services
+      url: /
+    - title: Les aides du département
+      url: /
     - title: Actualités
       url: /actualites/
-    - title: Contact
-      url: /contact/
