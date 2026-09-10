@@ -1,9 +1,10 @@
 _merge: deep
 
 header:
-  layout: dialog
+  expand: none
 
 logo:
+  header: '/assets/images/logo.png'
   footer: '/assets/images/logo.png'
 
 # Image

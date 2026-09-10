@@ -3,10 +3,7 @@ isPage: true
 draft: false
 title: Accueil
 description: Nouveau site de La Creuse
-image:
-  src: ''
-  alt: ''
-hero: null
+
 blocks:
   
   - type: cta
@@ -33,33 +30,83 @@ blocks:
       - title: Espace, famille, jeunesse
         text: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.
         icon: users
+        cta:
+          url: /
+          text: Accéder au service
       - title: Habitat, logement
         text: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.
         icon: house
+        cta:
+          url: /
+          text: Accéder au service
       - title: Insertion, emploi
         text: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.
         icon: briefcase-business
+        cta:
+          url: /
+          text: Accéder au service
       - title: Culture, patrimoine
         text: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.
         icon: palette
+        cta:
+          url: /
+          text: Accéder au service
       - title: Environnement
         text: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.
         icon: leaf
+        cta:
+          url: /
+          text: Accéder au service
       - title: Soutient aux territoires
         text: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.
         icon: hand-heart
+        cta:
+          url: /
+          text: Accéder au service
       - title: Autonomie
         text: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.
         icon: person-standing
+        cta:
+          url: /
+          text: Accéder au service
       - title: Éducation
         text: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.
         icon: backpack
+        cta:
+          url: /
+          text: Accéder au service
       - title: Routes
         text: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.
         icon: road
+        cta:
+          url: /
+          text: Accéder au service
       - title: Sport, loisirs de nature
         text: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.
         icon: bike
+        cta:
+          url: /
+          text: Accéder au service
+
+  - type: video
+    heading:
+      surtitle: Destination Creuse
+      title: La Creuse vous tente ?
+    footing:
+      ctas:
+        - url: https://www.esprit-creuse.fr/
+          text: Découvrir l’Esprit Creuse
+          blank: true
+    ui:
+      align: center
+      grid: large
+      offset: center
+      theme: accent
+    video:
+      controls: true
+      autoplay: true
+      mp4: /assets/videos/esprit-creuse.mp4
+      background: true
 
   - type: latest
     section: posts
@@ -80,7 +127,7 @@ blocks:
           url: /
         image:
           src: /images/uploads/snap-wander-cYUiJXcn-Ak-unsplash.jpg
-        is_darken: true
+        darken: true
         card: true
 
   - type: editorial

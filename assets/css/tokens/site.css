@@ -6,6 +6,8 @@
     --header-color-background: var(--color-brand);
     --header-color-link: var(--color-text-on-brand);
     --header-color-text: var(--color-text-on-brand);
+    --btn-padding-block: var(--spacing-fluid-xs);
+    --btn-padding-inline: var(--spacing-fluid-sm);
   }
 }
 
@@ -13,5 +15,41 @@
   header[role="banner"] {
     --btn-color-background: var(--color-text-on-brand);
     --btn-color-text: var(--color-brand);
+    .logo {
+      --logo-height: 50px;
+    }
+  }
+  footer[role="contentinfo"] {
+    .logo {
+      --logo-height: 100px;
+      filter: invert(1);
+    }
+  }
+}
+
+@layer components {
+  .block-informations {
+    --btn-color-background: transparent;
+    --btn-color-background-hover: transparent;
+    --btn-color-border: transparent;
+    --btn-color-border-hover: transparent;
+    --btn-color-text: var(--color-brand);
+    --btn-color-text-hover: var(--color-brand);
+    --btn-color-text-decoration: var(--color-brand);
+    --btn-color-text-decoration-hover: transparent;
+    --btn-padding-inline: 0;
+  }
+  .block-accent {
+    --btn-color-background: white;
+    --btn-color-background-hover: transparent;
+    --btn-color-border: transparent;
+    --btn-color-border-hover: transparent;
+    --btn-color-text: var(--color-brand);
+    --btn-color-text-hover: white;
+  }
+  .footing {
+    .cta {
+      justify-content: center;
+    }
   }
 }

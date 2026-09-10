@@ -1,8 +1,42 @@
 links:
-  - title: News
+  - title: Le conseil départemental
+    url: /
+    links:
+      - title: Le fonctionnement
+        url: /
+      - title: L’administration
+        url: /
+      - title: Le budget
+        url: /
+      - title: Visitez l’hôtel du département
+        url: /
+      - title: La démarche d’attractivité
+        url: /
+  - title: Nos services
+    url: /
+    links:
+      - title: Enfance, famille, jeunesse
+        url: /
+      - title: Habitat, logement
+        url: /
+      - title: Insertion, emploi
+        url: /
+      - title: Culture, patrimoine
+        url: /
+      - title: Environnement
+        url: /
+      - title: Soutient aux territoires
+        url: /
+      - title: Autonomie
+        url: /
+      - title: Éducation
+        url: /
+      - title: Routes
+        url: /
+      - title: Sport, loisirs de nature
+        url: /
+
+  - title: Les aides du département
+    url: /
+  - title: Actualités
     url: /news/
-  - title: Qui sommes-nous ?
-    url: /qui-sommes-nous/
-  - title: Contact
-    url: /contact/
-    is_highlighted: true
