@@ -8,8 +8,9 @@ blocks:
   
   - type: cta
     heading:
-      surtitle: Mes démarches
+      surtitle: Mes démarches CD23
       title: Vos démarches en quelques clics
+      text: MesDémarchesCD23 est la plateforme proposée par le Conseil départemental de la Creuse pour réaliser vos démarches en ligne.
     ctas:
       - text: Accéder au portail
         url: https://mesdemarches.creuse.fr/
@@ -21,8 +22,10 @@ blocks:
   - type: informations
     ui: 
       grid: container
+      offset: center
       align: center
       column: 5
+      scrollsnap: false
     heading:
       surtitle: Les infos pratiques
       title: Les services du Conseil départemental

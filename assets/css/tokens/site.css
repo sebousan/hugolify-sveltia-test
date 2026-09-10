@@ -6,6 +6,7 @@
     --header-color-background: var(--color-brand);
     --header-color-link: var(--color-text-on-brand);
     --header-color-text: var(--color-text-on-brand);
+    --header-height: 100px;
     --btn-padding-block: var(--spacing-fluid-xs);
     --btn-padding-inline: var(--spacing-fluid-sm);
   }
