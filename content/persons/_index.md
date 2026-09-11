@@ -1,24 +1,24 @@
 ---
-isPage: true
+isIndex: true
 draft: false
 title: Équipe
-description: ''
+description: Lorem ipsum
 image: null
 hero: null
 blocks:
   - type: selected-posts
     heading: null
     ui: null
-    carousel: null
     section: posts
+    show_more: true
+    carousel: null
     items:
       - 2026-09-09-nouveau-site-de-la-creuse
-    show_more: true
     source: selection
     authors: []
     categories: []
+isPage: true
 slug: ''
-isIndex: true
 ---
 
 Bienvenue sur le site de la creuse i
