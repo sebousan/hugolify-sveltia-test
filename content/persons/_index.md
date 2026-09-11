@@ -17,8 +17,6 @@ blocks:
     source: selection
     authors: []
     categories: []
-isPage: true
-slug: ''
 ---
 
 Bienvenue sur le site de la creuse i
