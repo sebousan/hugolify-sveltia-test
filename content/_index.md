@@ -1,5 +1,5 @@
 ---
-isPage: true
+isIndex: true
 draft: false
 title: Accueil
 description: Nouveau site de La Creuse
