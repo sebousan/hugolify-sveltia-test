@@ -27,6 +27,8 @@ admin:
   repo: sebousan/hugolify-sveltia-test
   netlify:
     identity: false
+  
+  publish_mode: editorial_workflow
 
   i18n:
     default_locale: fr
