@@ -52,4 +52,7 @@
       justify-content: center;
     }
   }
+  .drawer {
+    --nav-color-text-active: currentColor;
+  }
 }
